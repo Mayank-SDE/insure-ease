@@ -1,5 +1,9 @@
 # insure-ease 
+# Insure-Ease
+
 ## Project Frontend Structure
+
+```
 ├── public
 │   └── index.html
 ├── src
